@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/Tiril14/is105sem03"
+	"github.com/Tiril14/is105sem03/mycrypt"
 )
 
 func main() {
