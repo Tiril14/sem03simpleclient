@@ -5,7 +5,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/Tiril14/sem03simpleclient"
+	"github.com/Tiril14/is105sem03"
 )
 
 func main() {
